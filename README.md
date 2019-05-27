@@ -16,25 +16,24 @@ All the projects should be hosted on github and done using an online text editor
 https://zellwk.com/blog/js-functions/
 
 ### Introduction
-**Phase 1**
-> Introduction 
-Please use the resources [here](https://www.udemy.com/pythonforbeginnersintro/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-zUut3mqyCGyABUxOWt7G6Q&LSNPUBID=JVFxdTr9V80) 
-to have a grasp on Python before you do any assignment.
+**Reading Resources**
+> Please use the resources below for home study before attempting the assignments.
+- [Gentler introduction to programming](https://www.freecodecamp.org/news/a-gentler-introduction-to-programming-1f57383a1b2c/)
+- [Python Programming for Beginners](https://www.udemy.com/python-programming-beginners/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-HiTlksk6LmMvSwmMKWw25Q&LSNPUBID=JVFxdTr9V80)
 
 
-**Phase 2**
-> Assess the understanding of the technology(this can be just questions)
 
+**Assignment 1**
 ### Prove your understanding
 > You can consider these phases like small projects that build up to each other
 
-**Phase 3**
+**Assignment 2**
 > Assignment number1
 
 
 
 
-**Phase 4**
+**Assignment 3**
 > Assignment number2
 
 ### Final Project
