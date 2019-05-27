@@ -26,6 +26,7 @@ https://zellwk.com/blog/js-functions/
 **Assignment 1**
 ### Prove your understanding
 > You can consider these phases like small projects that build up to each other
+![image](assign.jpg)
 
 **Assignment 2**
 > Assignment number1
