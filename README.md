@@ -3,17 +3,7 @@
 This consists of small exercises and assignments to prove the understanding of one in Python Programming.
 All the projects should be hosted on github and done using an online text editor like codesandbox.io
 
-**N.B:** Make sure that resources are good for beginners and aren't confusing  
-         Resources should start from basic to build up to bigger projects and more understanding. 
 
-
-**Example of preamble links**
-- Naming
-  https://dmitripavlutin.com/coding-like-shakespeare-practical-function-naming-conventions/
-- Lazy
-  https://exceptionnotfound.net/be-the-laziest-programmer-you-can-be/
-- Functions
-https://zellwk.com/blog/js-functions/
 
 ### Introduction
 **Reading Resources**
