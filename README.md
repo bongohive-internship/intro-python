@@ -23,15 +23,19 @@ Please use the resources below for home study before attempting the assignments.
 
 
 
-**Assignment 1**
-### Prove your understanding
+### Prove your understanding  
+**Assignment 1**  
 Having through the recommended material, please look at the Data Flow Diagram below. Using loops, write a simple Python code 
 that asks the player some questions about animals. They get three chances to answer each question—you don’t want to make the quiz too difficult! Each correct answer will score one point. At the end of the quiz, the program reveals the player’s final score.If the user attempts a question three times and gives a wrong answer, display the correct answer then move to next question(if there is more) else display total score.  
 
-![image](https://github.com/BongoHive/intro-python/blob/master/Screenshot%202019-05-27%20at%204.17.29%20PM.png?raw=true). 
-##Data Flow Diagram
+![image](https://github.com/BongoHive/intro-python/blob/master/Screenshot%202019-05-27%20at%204.17.29%20PM.png?raw=true)  
+**Data Flow Diagram**  
 
-![image]()
+
+![image](https://github.com/BongoHive/intro-python/blob/master/Screenshot%202019-05-27%20at%204.18.56%20PM.png?raw=true)   
+**How the program will run**  
+
+Happy coding!!!
 
 **Assignment 2**
 > Assignment number1
